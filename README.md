@@ -8,9 +8,7 @@
 
 # A task is only considered COMPLETE when it’s marked as DONE and either has no dependencies or all of its dependencies are also COMPLETE.
 
-# Any individual task may have any number of dependencies but should never result in a circular dependency. For example, if Task A
-
-depends on Task B, then Task B cannot also depend on Task A.
+# Any individual task may have any number of dependencies but should never result in a circular dependency. For example, if Task A depends on Task B, then Task B cannot also depend on Task A.
 
 # Extra Features
 
