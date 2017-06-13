@@ -19,7 +19,7 @@
     <script src="<?php echo base_url(); ?>assets/js/pace.min.js"></script>
     <link href="<?php echo base_url(); ?>assets/css/bootstrap.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/plugins/icheck/skins/square/aero.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/plugins/icheck/skins/all.css">
 
 </head>
 <body class="">
